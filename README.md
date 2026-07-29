@@ -4,7 +4,7 @@ A spatial and space-time analysis of 82,146 reported road crashes across the Can
 
 > **Live web app:** _[coming soon: ArcGIS Online dashboard link]_
 
-![Canterbury emerging crash hotspots, 2000 to 2022](image\canterbury-emerging-hotspots.png)
+![Canterbury emerging crash hotspots, 2000 to 2022](<img src="canterbury-emerging-hotspots.png">)
 
 ---
 
