@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GIS data and binaries
+*.geojson
+*.nc
+*.aprx
+*.aprx.lock
+*.gdb/
+*.zip
+
+# ArcGIS project cruft
+*.atbx
+Index/
+GpMessages/
+ImportLog/
+.backups/
