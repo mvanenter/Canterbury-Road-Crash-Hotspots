@@ -2,7 +2,7 @@
 
 A spatial and space-time analysis of 82,146 reported road crashes across the Canterbury region, built end to end in ArcGIS Pro with a fully scripted `arcpy` workflow. The project identifies where crashes concentrate, and, more usefully, classifies **how each black-spot has changed over two decades**, distinguishing locations where risk is intensifying from those where it has cooled.
 
-> **Live web app:** _[coming soon: ArcGIS Online dashboard link]_
+> **[▶ Explore the live interactive dashboard](https://aut-mel.maps.arcgis.com/apps/dashboards/40f8c72f19c341f48e10f24bd374473a)**
 
 ![Canterbury emerging crash hotspots, 2000 to 2022](canterbury-emerging-hotspots.png)
 
